@@ -10,8 +10,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common-jpa" />
+        <module name="rest-service" />
         <module name="dispatcher" />
         <module name="common-rabbitmq" />
+        <module name="Node" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,8 +23,11 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Node" options="-parameters" />
+      <module name="common-jpa" options="-parameters" />
       <module name="common-rabbitmq" options="-parameters" />
       <module name="dispatcher" options="-parameters" />
+      <module name="rest-service" options="-parameters" />
       <module name="untitled" options="-parameters" />
     </option>
   </component>

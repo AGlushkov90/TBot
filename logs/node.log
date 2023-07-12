@@ -1,0 +1,19 @@
+2023-07-07 22:50:15 DEBUG ConsumerServiceImpl:37 - NODE: Text message is received
+2023-07-07 22:50:15 DEBUG ConsumerServiceImpl:53 - NODE: Photo message is received
+2023-07-07 22:50:15 DEBUG ConsumerServiceImpl:37 - NODE: Text message is received
+2023-07-07 23:18:51 DEBUG ConsumerServiceImpl:37 - NODE: Text message is received
+2023-07-10 22:27:01 DEBUG UpdateProducerImpl:20 - hello t
+2023-07-10 22:27:01 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-10 23:29:12 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-11 16:48:13 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-11 16:48:29 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-11 16:48:33 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-11 16:48:35 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-11 16:48:39 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-11 16:48:49 DEBUG ConsumerServiceImpl:55 - NODE: Photo message is received
+2023-07-11 16:56:16 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-11 16:56:19 DEBUG ConsumerServiceImpl:39 - NODE: Text message is received
+2023-07-11 17:53:38 DEBUG UpdateProducerImpl:20 - 
+2023-07-11 17:53:38 DEBUG ConsumerServiceImpl:55 - NODE: Photo message is received
+2023-07-11 17:53:47 DEBUG ConsumerServiceImpl:48 - NODE: Doc message is received
+2023-07-12 22:58:59 DEBUG ConsumerServiceImpl:55 - NODE: Photo message is received

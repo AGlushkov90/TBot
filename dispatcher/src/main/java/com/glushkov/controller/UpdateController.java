@@ -32,7 +32,7 @@ public class UpdateController {
             log.error("received update is null");
         return;}
 
-        if (update.getMessage() != null){
+        if (update.hasMessage()){
             distributeMessageByType(update);
         } else{
             log.error("received message is unsupported" + update);
